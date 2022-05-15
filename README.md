@@ -9,7 +9,7 @@
 - 🏦 I'm a High School Student who is intrested in Coding & CTF challenges
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I usually spend my time at learning new technologies & discovering new stuff in the cyber world 
-- 💻 I use daily **sudo**, **man 3**, **grep -i**
+- 💻 I use daily **sudo**, **man 3**, **grep -oE**
 - 💬 Talk to me about Chess ♟,Programming **</>**, Interests, literally anything just talk to me
 <!--- - 📖 I am currently reading Zzz.. --->
 <!--- - ⚡ Fun fact: Zzz.. --->
