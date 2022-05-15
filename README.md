@@ -1,6 +1,6 @@
 # Hi Th3re! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
-<a href="https://discord.com/users/Salman#8204" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Salman#8204" height="40" width="30" /></a>&nbsp;
+<a href="https://discord.com/users/xPawn0#4559" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="xPawn0#4559" height="40" width="30" /></a>&nbsp;
 </p>
 
 ![](https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif)
